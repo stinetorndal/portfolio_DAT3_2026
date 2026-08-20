@@ -5,11 +5,10 @@ draft: false
 description: "App til brug for alle os, der har virkelig mange garnrester."
 ---
 
-Selve tekstindholdet skrives her under stregerne.
 
 **Teknologier brugt:**
 * Java 21
 * PostgreSQL
 * Docker
 
-Se projektets kode på [GitHub](https://github.com/ditslug).
+Se projektets kode på [GitHub](https://github.com/stinetorndal/portfolio_DAT3_2026).
