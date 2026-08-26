@@ -25,7 +25,7 @@ The project on GitHub
 
 --- 
 
-## User Stories
+## User Stories - brainstorming
 
 * As a user, I want to be able to create an account and log in
 * As a registered user, I want to be able to save my favorites
