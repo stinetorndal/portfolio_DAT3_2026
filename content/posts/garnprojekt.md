@@ -11,18 +11,19 @@ Stine & Katarina · 3. semester, Datamatikeruddannelsen (EK Lyngby)
 An app designed for the knit and crochet enthusiasts to help us manage all our scrap yarn.
 {{< /lead >}}
 
+---
+## WEEK 35 
+---
+
 ## Technologies
 
 {{< badge >}}Java 21{{< /badge >}}
 {{< badge >}}PostgreSQL{{< /badge >}}
 {{< badge >}}Docker{{< /badge >}}
-
 ---
-
 {{< button href="https://github.com/stinetorndal/portfolio_DAT3_2026" target="_blank" >}}
 The project on GitHub
 {{< /button >}}
-
 --- 
 
 ## User Stories - brainstorming
