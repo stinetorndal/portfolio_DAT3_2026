@@ -57,7 +57,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 name = "montserrat"
 
 [header]
-  layout = "detailed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-font = "montserrat", fixed-fill-blur, floating
+  layout = "detailed" # valid options: basic, fixed, fixed-fill, fixed-gradient,  fixed-fill-blur, floating
   # mobileMenuStyle = "fullscreen" # valid options: fullscreen, dropdown
 
 [footer]

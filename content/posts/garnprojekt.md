@@ -1,17 +1,17 @@
 ---
-title: "Garn-projekt"
+title: "Scrap Yarn"
 date: 2026-08-20
 draft: false
-description: "App til brug for alle os, der har lidt for mange garnrester"
+description: "App for us who have too much scrap yarn"
 ---
 
 Stine & Katarina · 3. semester, Datamatikeruddannelsen (EK Lyngby)
 
 {{< lead >}}
-En app designet til at hjælpe strikke- og hækleentusiaster med at holde styr på og udnytte garnrester.
+An app designed for the knit and crochet enthusiasts to help us manage all our scrap yarn.
 {{< /lead >}}
 
-## Teknologier
+## Technologies
 
 {{< badge >}}Java 21{{< /badge >}}
 {{< badge >}}PostgreSQL{{< /badge >}}
@@ -20,50 +20,53 @@ En app designet til at hjælpe strikke- og hækleentusiaster med at holde styr p
 ---
 
 {{< button href="https://github.com/stinetorndal/portfolio_DAT3_2026" target="_blank" >}}
-Se projektet på GitHub
+The project on GitHub
 {{< /button >}}
 
+--- 
 
-* Jeg vil kunne oprette en bruger og logge ind.
-* Som oprettet bruger vil jeg kunne gemme favoritter
-* Som oprettet bruger vil jeg kunne skrive noter
-* Som oprettet bruger vil jeg kunne lave egne opskrifter ud fra skabelon
-* Som oprettet bruger vil jeg kunne holde styr på mine (mange) igangværende projekter
-* Som oprettet bruger vil jeg kunne se alle mine færdige projekter
-* Som oprettet bruger vil jeg kunne oprette et bibliotek over mit garn/mine garnrester
-* Som administrator vil jeg kunne logge ind
-* Som administrator vil jeg kunne lægge nye opskrifter ind i appen
-* Som administrator vil jeg kunne slette en bruger
-* Som administrator vil jeg kunne opdatere en bruger
-* Som administrator vil jeg kunne slette en opskrift
-* Som administrator vil jeg kunne søge på en bruger
-* Som administrator vil jeg kunne søge på en opskrift
-* Som administrator vil jeg kunne se alle brugere
-* Som administrator vil jeg kunne se alle opskrifter
-* Som oprettet bruger vil jeg kunne slette mine noter
-* Som oprettet bruger vil jeg kunne ændre i mine noter
-* Som oprettet bruger vil jeg kunne slette mine egne opskrifter
-* Som oprettet bruger vil jeg kunne ændre i mine egne opskrifter
-* Som oprettet bruger vil jeg kunne opdatere mit garnkartotek
-* Som oprettet bruger vil jeg kunne slette garn fra mit garnkartotek
-* Som bruger vil jeg kunne indtaste mit restegarn og finde en opskrift, der matcher
-* Som bruger vil jeg kunne filtrere opskrifter på sværhedsgrad
-* Som bruger vil jeg kunne filtrere opskrifter på hækling/strik
-* Som bruger vil jeg kunne filtrere opskrifter på pinde- nålestørrelse
-* Som bruger vil jeg kunne filtrere opskrifter på garnmængde
-* Som bruger vil jeg kunne filtrere opskrifter på kategori (for eksempel halloween)
-* Som bruger vil jeg kunne filtrere opskrifter på strikke-/hæklefasthed
-* Som bruger vil jeg kunne filtrere opskrifter på garntype
-* Som bruger vil jeg kunne filtrere opskrifter på, om en opskrift bruger ekstramaterialer
-* Som bruger vil jeg, når jeg kigger på listen over mulige opskrifter, kunne se garnforbrug uden at skulle trykke ind på opskriften
-* Som bruger vil jeg kunne vælge kun at se gratis opskrifter
-* Som bruger vil jeg kunne vælge kun at se betalingsopskrifter
-* Som bruger vil jeg kunne vælge at se både gratis og betalingsopskrifter
-* Som bruger vil jeg kunne filtrere på prisen, når jeg søger på betalingsopskrifter
-* Som bruger vil jeg kunne bruge søgefunktionen i appen uden at være logget ind/oprettet som bruger
-* Som oprettet bruger vil jeg kunne uploade billeder på mine projekter
-* Som oprettet bruger vil jeg kunne krydse af, om mine billeder på bruges public eller private
-* Som oprettet bruger vil jeg kunne vælge for hvert projekt, om det skal være public eller private
-* Som bruger vil jeg kunne vælge at se andres projekter, når jeg går ind på en opskrift
-* Som bruger vil jeg kunne se andres projekter (når jeg for eksempel mangler inspiration og trykker på “Jeg ved ikke, hvad jeg skal lave”.
+## User Stories
+
+* As a user, I want to be able to create an account and log in
+* As a registered user, I want to be able to save my favorites
+* As a registered user, I want to be able to write personal notes
+* As a registered user, I want to be able to create my own recipes/patterns from a template
+* As a registered user, I want to be able to keep track of my (many) ongoing projects
+* As a registered user, I want to be able to view all my completed projects
+* As a registered user, I want to be able to create a library of my yarn/yarn stash
+* As an administrator, I want to be able to log in
+* As an administrator, I want to be able to add new patterns to the app
+* As an administrator, I want to be able to delete a user
+* As an administrator, I want to be able to update a user
+* As an administrator, I want to be able to delete a pattern
+* As an administrator, I want to be able to search for a user
+* As an administrator, I want to be able to search for a pattern
+* As an administrator, I want to be able to view all users
+* As an administrator, I want to be able to view all recipes/patterns
+* As a registered user, I want to be able to delete my notes
+* As a registered user, I want to be able to edit my notes
+* As a registered user, I want to be able to delete my own patterns
+* As a registered user, I want to be able to edit my own patterns
+* As a registered user, I want to be able to update my yarn inventory
+* As a registered user, I want to be able to delete yarn from my yarn inventory.
+* As a user, I want to be able to enter my scrap yarn and find a matching pattern
+* As a user, I want to be able to filter patterns by difficulty level
+* As a user, I want to be able to filter patterns by crochet / knit
+* As a user, I want to be able to filter patterns by needle / hook size
+* As a user, I want to be able to filter patterns by yarn amount
+* As a user, I want to be able to filter patterns by category (e.g., Halloween)
+* As a user, I want to be able to filter patterns by gauge
+* As a user, I want to be able to filter patterns by yarn type
+* As a user, I want to be able to filter patterns by whether a pattern requires extra materials
+* As a user, when browsing the list of available patterns, I want to be able to see yarn usage without clicking into the pattern
+* As a user, I want to be able to choose to view only free patterns
+* As a user, I want to be able to choose to view only paid patterns
+* As a user, I want to be able to choose to view both free and paid patterns
+* As a user, I want to be able to filter by price when searching paid patterns
+* As a user, I want to be able to use the search functionality in the app without being logged in / registered as a user
+* As a registered user, I want to be able to upload images to my projects
+* As a registered user, I want to be able to mark whether my images can be used publicly or privately.
+* As a registered user, I want to be able to set each project as public or private.
+* As a user, I want to be able to view other users' projects when opening a pattern
+* As a user, I want to be able to view other users' projects (for example if looking for inspiration and choosing "I don't know what to make")
   
