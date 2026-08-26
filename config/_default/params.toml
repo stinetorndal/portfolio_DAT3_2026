@@ -53,8 +53,11 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 [seo]
 # metaDescriptionOrder = ["summary", "description", "site"] # Controls the fallback order for the HTML meta description. Valid values are "summary", "description", and "site".
 
+[font]
+name = "montserrat"
+
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-font = "montserrat", fixed-fill-blur, floating
+  layout = "detailed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-font = "montserrat", fixed-fill-blur, floating
   # mobileMenuStyle = "fullscreen" # valid options: fullscreen, dropdown
 
 [footer]
@@ -65,13 +68,13 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showScrollToTop = true
 
 [homepage]
-  layout = "page" # valid options: page, profile, hero, card, background, landing, custom
+  layout = "profile" # valid options: page, profile, hero, card, background, landing, custom
   # layoutSwitcher = false # opt-in interactive preview of the built-in layouts
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = true
-  showMoreLinkDest = "/projects/"
+  showMoreLinkDest = "/posts/"
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
