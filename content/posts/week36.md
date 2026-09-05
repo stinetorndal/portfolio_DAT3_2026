@@ -25,7 +25,7 @@ An app designed for the knit and crochet enthusiasts to help us manage all our s
 
 * **1:** Done, including commit and push
 * **2:** Done
-* **3:** Work in progress. We have a god draft, but it's still under development
+* **3:** Work in progress. We have a good draft, but it's still under development
 
 ## 3. Implementing new technologies from Class
 
@@ -35,7 +35,7 @@ Also, not all API's have the attributtes, that could be relevant for us
 
 **Chosen API:**
 * Unsplash API
-* 
+  
 Following are the attributes we have selected for now, since the current scope is text based
 * Color
 * Description
@@ -46,7 +46,7 @@ Following are the attributes we have selected for now, since the current scope i
 
 * [x] **API data fetching**    
      It went very well. A few minor issues but we quickly identified possible code snippets causing them. Data now as expected.
-* [] **Class diagram**
+* [ ] **Class diagram**
      It takes a lot longer that anticipated. We are prioritizing a solid foundation    
 
 ## 5. Next week (week 37)
