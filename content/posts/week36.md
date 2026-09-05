@@ -1,6 +1,6 @@
 ---
 title: "Scrap Yarn"
-date: 2026-09-06
+date: 2026-09-05
 draft: false
 description: "App for us who have too much scrap yarn"
 ---
