@@ -1,5 +1,5 @@
 ---
-title: "Scrap Yarn"
+title: "WEEK 35"
 date: 2026-08-20
 draft: false
 description: "App for us who have too much scrap yarn"
@@ -11,8 +11,6 @@ Stine & Katarina · 3. semester, Datamatikeruddannelsen (EK Lyngby)
 An app designed for the knit and crochet enthusiasts to help us manage all our scrap yarn.
 {{< /lead >}}
 
----
-## WEEK 35 
 ---
 
 ## Technologies

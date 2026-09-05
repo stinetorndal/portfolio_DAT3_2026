@@ -12,8 +12,6 @@ An app designed for the knit and crochet enthusiasts to help us manage all our s
 {{< /lead >}}
 
 ---
-## WEEK 36 
----
 
 ## 1. This week's goals and tasks: 
 
