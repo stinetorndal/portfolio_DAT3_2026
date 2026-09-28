@@ -15,6 +15,8 @@ An app to lend a helping hand to artists with art block and lack of inspiration.
 
 ## User Stories - ArtPrompt 
 
+---
+
 #### User Story 1
 * **Som** kunstner 
 * **vil jeg** kunne hente tilfældige prompt-ord baseret på en valgt kategori, 
