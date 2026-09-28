@@ -46,7 +46,7 @@ I have not implemented it to my project yet but I have created a Roadmap to keep
 
 ## 5. Next week (week 40)
 
-* [ ] Plan is to handle exceptiona
+* [ ] Plan is to handle exceptions
 * [ ] Create my own exception(s)
 * [ ] Set up logging with logback
 * [ ] Create DB and seed data from csv file
