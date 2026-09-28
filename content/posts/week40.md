@@ -24,7 +24,7 @@ An app to lend a helping hand to artists with art block and lack of inspiration.
 #### User Story 2
 * **Som** kunstner
 * **vil jeg** kunne hente en ny kategori, hvor min forrige valgte kategori er sorteret fra,
-* **så** så jeg ikke får den samme kategori to gange i træk.
+* **så**  jeg ikke får den samme kategori to gange i træk.
 #### User Story 3
 * **Som** system 
 * **vil jeg** sikre, at en ny brugers e-mail indeholder @ og et gyldigt domæne (fx .dk),
@@ -32,19 +32,19 @@ An app to lend a helping hand to artists with art block and lack of inspiration.
 #### User Story 4
 * **Som** system 
 * **vil jeg** afvise adgangskoder, der er under 8 tegn eller mangler store bogstaver, tal og specialtegn,
-* **så** så brugernes konti er bedre beskyttet mod uautoriseret adgang.
+* **så** brugernes konti er bedre beskyttet mod uautoriseret adgang.
 #### User Story 5
 * **Som** ny bruger
 * **vil jeg** kunne oprette en konto med e-mail og adgangskode,
-* **så** så min adgangskode gemmes sikkert i databasen i et krypteret/hashed format (BCrypt).
+* **så** min adgangskode gemmes sikkert i databasen i et krypteret/hashed format.
 #### User Story 6
 * **Som** system
 * **vil jeg** checke, om en e-mail allerede eksisterer i databasen før oprettelse,
-* **så** der undgps duplikerede brugerprofiler
+* **så** der undgås duplikerede brugerprofiler
 #### User Story 7
 * **Som** eksisterende bruger
 * **vil jeg** kunne logge ind med min e-mail og adgangskode,
-* **så** systemet kan bekræfte min identitet via BCrypt og give mig adgang.
+* **så** systemet kan bekræfte min identitet via kryptering og give mig adgang.
 #### User Story 8
 * **Som** eksisterende bruger
 * **vil jeg** kunne gemme billeder fra billedprompt
