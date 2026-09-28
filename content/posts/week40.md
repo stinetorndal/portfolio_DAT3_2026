@@ -20,9 +20,9 @@ An app to lend a helping hand to artists with art block and lack of inspiration.
 #### User Story 1
 * **Som** kunstner 
 * **vil jeg** kunne hente tilfældige prompt-ord baseret på en valgt kategori, 
-* **så** jeg kan få ny inspiration til mine tegninger.\
+* **så** jeg kan få ny inspiration til mine tegninger.
 #### User Story 2
-* **Som** kunstner\ 
+* **Som** kunstner
 * **vil jeg** kunne hente en ny kategori, hvor min forrige valgte kategori er sorteret fra,
 * **så** så jeg ikke får den samme kategori to gange i træk.
 #### User Story 3
