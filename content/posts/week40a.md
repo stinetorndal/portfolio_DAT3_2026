@@ -1,4 +1,19 @@
-# User Stories og Acceptkriterier
+---
+title: "WEEK 40"
+date: 2026-09-27
+draft: false
+description: "An inspirational app for artists"
+---
+
+Stine Torndal · 3. semester, Datamatikeruddannelsen (EK Lyngby)
+
+{{< lead >}}
+An app to lend a helping hand to artists with art block and lack of inspiration.
+{{< /lead >}}
+
+---
+
+# User Stories og Acceptkriterier - Artprompt
 
 ## User Story 1
 **Som** kunstner  
