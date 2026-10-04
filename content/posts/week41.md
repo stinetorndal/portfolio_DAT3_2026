@@ -1,5 +1,5 @@
 ---
-title: "WEEK 40"
+title: "WEEK 41"
 date: 2026-10-04
 draft: false
 description: "An inspirational app for artists"
