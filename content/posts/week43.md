@@ -15,11 +15,11 @@ An app to lend a helping hand to artists with art block and lack of inspiration.
 
 ## 1. This week's goals and tasks: 
 
-* [ ] Deploy
+* [x] Deploy
 * [x] Implement threads
 * [x] Set up ADMIN role
 * [x] Change fetching from ANYONE to ADMIN from Rijksmuseum
-* [ ] Make an overview of classes and flow in order to go through User Stories
+* [x] Make an overview of classes and flow in order to go through User Stories
 
 
 ## 2. Progress
